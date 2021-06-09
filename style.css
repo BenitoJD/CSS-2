@@ -1,7 +1,5 @@
-h1{
-    color:rgba(red, green, blue, alpha)
-    background-color:lawngreen;
-}
-p{
-    background-color:black;
+body {
+  background-image: url(/pexels-maksim-goncharenok-4412934.jpg);
+  background-image: fixed;
+  background-repeat: no-repeat;
 }
